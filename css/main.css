@@ -12,7 +12,7 @@
 }
 .a {
     text-decoration: none;
-    color: #999;
+    color: #393c3d;
 }
 .a:hover {
     text-decoration: underline;
@@ -31,7 +31,7 @@
 }
 
 .jumbotron h1 {
-  color: #303030;
+  color: #fff;
   font-size: 48px;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
@@ -39,7 +39,7 @@
 
 .jumbotron p {
   font-size: 20px;
-  color: #303030;
+  color: #C8C8C8;
 }
 
 .research-interests {

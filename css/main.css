@@ -61,6 +61,11 @@
   background-color: #f7f7f7;
 }
 
+.learn-more h2 {
+    color: #393c3d;
+    font-size: 24px;
+}
+
 .learn-more h3 {
   font-family: 'Shift', sans-serif;
   font-size: 18px;

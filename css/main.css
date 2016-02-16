@@ -9,8 +9,11 @@ font-family:'Helvetica', 'Arial', 'Sans-Serif';
     display: inline;
     padding-left: 50px;
 }
-.nav .dropdown
-  li:hover ul {display: block; position: absolute;}
+.nav .dropdown li:hover ul {
+    display: block; 
+    position: absolute;
+}
+
 .nav a {
   text-transform: uppercase;
     color: #393c3d;

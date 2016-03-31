@@ -34,9 +34,9 @@ font-family:'Helvetica', 'Arial', 'Sans-Serif';
   font-weight: bold;
 }
 
-.jumbotron p {
-  font-size: 20px;
-  color: #000000;
+.jumbotron h2 {
+  font-size: 25px;
+  color: #fff;
   font-family: 'Shift', sans-serif;
   font-weight: bold;
 }

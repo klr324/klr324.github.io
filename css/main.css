@@ -131,6 +131,7 @@ footer {
     margin-right:5px;
 }
 
+/* Slide show only works in safari */
 /* Style slide show */
 * {box-sizing:border-box}
 body {font-family: ''Helvetica', 'Arial', 'Sans-Serif';}
@@ -138,7 +139,7 @@ body {font-family: ''Helvetica', 'Arial', 'Sans-Serif';}
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 750px;
+  max-width: 650px;
   position: relative;
   margin: auto;
 }

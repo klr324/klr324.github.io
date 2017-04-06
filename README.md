@@ -1,2 +1,3 @@
 # klr324.github.io
-Learning to build a website
+
+This is the HTML code for the website http://klr324.github.io/, which is managed by Kelsey Ruckert. 
